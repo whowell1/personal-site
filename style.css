@@ -136,8 +136,17 @@ color: white;
 	text-align: center;
 	color: white;
 	
+}
 
 
+.site-footer {
+  background: white;
+}
+
+
+#footer1{
+margin-left:2%;
+text-align: center;
 
 }
 
